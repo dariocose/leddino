@@ -1,5 +1,7 @@
 ### High Power LED Arduino Shield - LEDdino Nano V0
 
+[![Arduino 3w led](https://raw.githubusercontent.com/dariocose/leddino/main/images/1_LEDDINO.jpg "Arduino 3w led")](httphttps://www.youtube.com/channel/UC8I9NHfKdnqptM4hbdi313Q:// "Arduino 3w led")
+
 [The project is still under development. The board is 100% functional.]
 
 LEDdino Nano is a breadboard friendly and Arduino Nano friendly board that can drive high power LEDs.
